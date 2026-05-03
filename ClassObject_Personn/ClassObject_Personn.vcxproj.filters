@@ -22,6 +22,9 @@
     <Filter Include="Searching">
       <UniqueIdentifier>{b1e082bc-713d-4fa1-9c94-105a762e1c7e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ArrayList">
+      <UniqueIdentifier>{cba288f8-aca9-44e7-b6a7-52761e52167f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
@@ -38,6 +41,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Searching\Element.h">
       <Filter>Searching</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\ArrayList\Item.h">
+      <Filter>ArrayList</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +64,9 @@
     </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Searching\MainSearch.cpp">
       <Filter>Searching</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Documents\ArrayList\MainItem.cpp">
+      <Filter>ArrayList</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
