@@ -19,6 +19,9 @@
     <Filter Include="Recursion">
       <UniqueIdentifier>{e3d72f46-7c40-403f-b2c0-2d6f833fc905}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Searching">
+      <UniqueIdentifier>{b1e082bc-713d-4fa1-9c94-105a762e1c7e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
@@ -32,6 +35,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\..\OneDrive\Documents\recursion\Folder.h">
       <Filter>Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\Searching\Element.h">
+      <Filter>Searching</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -49,6 +55,9 @@
     </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Documents\recursion\MainFolder.cpp">
       <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Documents\Searching\MainSearch.cpp">
+      <Filter>Searching</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
