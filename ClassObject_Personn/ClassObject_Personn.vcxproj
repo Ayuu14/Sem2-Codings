@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\OneDrive\Documents\ArrayList\Item.h" />
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItem.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\recursion\Folder.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Searching\Element.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Template\num.h" />
@@ -137,6 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\OneDrive\Documents\ArrayList\MainItem.cpp" />
+    <ClCompile Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItemMain.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\recursion\MainFolder.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Searching\MainSearch.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Template\Mymain.cpp" />
