@@ -132,6 +132,7 @@
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItem.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\recursion\Folder.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Searching\Element.h" />
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\Sorting.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Template\num.h" />
     <ClInclude Include="Applicant.h" />
     <ClInclude Include="Person.h" />
@@ -141,6 +142,7 @@
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItemMain.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\recursion\MainFolder.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Searching\MainSearch.cpp" />
+    <ClCompile Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\SortingMaincpp.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Template\Mymain.cpp" />
     <ClCompile Include="Applicant.cpp" />
     <ClCompile Include="MainPerson.cpp" />

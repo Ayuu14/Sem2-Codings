@@ -28,6 +28,9 @@
     <Filter Include="LinkedList">
       <UniqueIdentifier>{145e27d0-ce16-4bc2-9f57-a39d9f9737b6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Sorting">
+      <UniqueIdentifier>{ebf1efc9-6fb1-44e3-9a7e-775554bd786e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
@@ -50,6 +53,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItem.h">
       <Filter>LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\Sorting.h">
+      <Filter>Sorting</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -76,6 +82,9 @@
     </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItemMain.cpp">
       <Filter>LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\SortingMaincpp.cpp">
+      <Filter>Sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
