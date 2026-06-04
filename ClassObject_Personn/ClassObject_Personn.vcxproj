@@ -128,6 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(2)\LinkedQueue2.h" />
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(2)\Person2.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\LinkedQueue.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\Person.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\ArrayList\Item.h" />
@@ -140,6 +142,7 @@
     <ClInclude Include="Person.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue(2)\MainLinkedQueue2.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue\MainLinkedQueue.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\ArrayList\MainItem.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItemMain.cpp" />
