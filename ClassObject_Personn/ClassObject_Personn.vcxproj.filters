@@ -31,6 +31,9 @@
     <Filter Include="Sorting">
       <UniqueIdentifier>{ebf1efc9-6fb1-44e3-9a7e-775554bd786e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Queue%281%29">
+      <UniqueIdentifier>{8d02cb78-fb2b-4f4c-bc80-56cadcd77259}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
@@ -56,6 +59,12 @@
     </ClInclude>
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\Sorting.h">
       <Filter>Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\Person.h">
+      <Filter>Queue%281%29</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\LinkedQueue.h">
+      <Filter>Queue%281%29</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -85,6 +94,9 @@
     </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\SortingMaincpp.cpp">
       <Filter>Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue(1)\MainLinkedQueue.cpp">
+      <Filter>Queue%281%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
