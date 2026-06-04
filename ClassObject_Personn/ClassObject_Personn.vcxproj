@@ -128,8 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\LinkedQueue.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\Person.h" />
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\LinkedQueue.h" />
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\Person.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\ArrayList\Item.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItem.h" />
     <ClInclude Include="..\..\..\..\OneDrive\Documents\recursion\Folder.h" />
@@ -140,7 +140,7 @@
     <ClInclude Include="Person.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue(1)\MainLinkedQueue.cpp" />
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue\MainLinkedQueue.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\ArrayList\MainItem.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Linked List\LinkedItemMain.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Documents\recursion\MainFolder.cpp" />

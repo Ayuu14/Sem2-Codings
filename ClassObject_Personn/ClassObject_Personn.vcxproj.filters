@@ -32,7 +32,7 @@
       <UniqueIdentifier>{ebf1efc9-6fb1-44e3-9a7e-775554bd786e}</UniqueIdentifier>
     </Filter>
     <Filter Include="Queue%281%29">
-      <UniqueIdentifier>{8d02cb78-fb2b-4f4c-bc80-56cadcd77259}</UniqueIdentifier>
+      <UniqueIdentifier>{74a3f610-5a7a-48ce-a758-657bf051dcf3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -60,10 +60,10 @@
     <ClInclude Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\Sorting.h">
       <Filter>Sorting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\Person.h">
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\LinkedQueue.h">
       <Filter>Queue%281%29</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue(1)\LinkedQueue.h">
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Queue\Person.h">
       <Filter>Queue%281%29</Filter>
     </ClInclude>
   </ItemGroup>
@@ -95,7 +95,7 @@
     <ClCompile Include="..\..\..\..\OneDrive\Documents\Sorting(Descending)\SortingMaincpp.cpp">
       <Filter>Sorting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue(1)\MainLinkedQueue.cpp">
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Queue\MainLinkedQueue.cpp">
       <Filter>Queue%281%29</Filter>
     </ClCompile>
   </ItemGroup>
